@@ -35,5 +35,6 @@ Kerala Blockchain Academy Innovation Club (KBAIC) is a novel initiative by Keral
 | <img src="Assets/Batch-1/Aswhin_Prashanth_Parthiban.png" width="150"> <br/> [**Mr. Aswhin Prashanth Parthiban**]() | <img src="Assets/Batch-1/Feroz_Khan.png" width="150"> <br/> [**Mr. Mohamed Feroz Khan D**]() | <img src="Assets/Batch-1/Lakshmi_Harika.png" width="150"> <br/> [**Ms. Poturi Lakshmi_Harika**]() | 
 | <img src="Assets/Batch-1/Nikhitha.png" width="150"> <br/> [**Ms. H Nikhitha**]() | <img src="Assets/Batch-1/Shanthosh_KP.png" width="150"> <br/> [**Mr. Shanthosh K P**]() | <img src="Assets/Batch-1/TK_Vrinda.png" width="150"> <br/> [**Ms. T k Vrinda**]() | 
 | <img src="Assets/Batch-1/M_Harshavarthinie.png" width="150"> <br/> [**Ms. M Harshavarthinie**]() | <img src="Assets/Batch-1/Hemvarshan.png" width="150"> <br/> [**Mr. V Hemvarshan**]() | [**Mr. Viswanath Singh**]()  |
-| <img src="Assets/Batch-1/Tippireddy.png" width="150"> <br/> [**Mr. Tippireddy Pavan Kumar Reddy**]() | | |
+| <img src="Assets/Batch-1/Deepthi_J.jpg" width="150"> <br/> [**Ms. Deepthi J**]() | <img src="Assets/Batch-1/Sushmanth_VM.jpg" width="150"> <br/> [**Mr. Sushmanth V M**]()  | <img src="Assets/Batch-1/Tippireddy.png" width="150"> <br/> [**Mr. Tippireddy Pavan Kumar Reddy**]() |
+| <img src="Assets/Batch-1/Vivek_Veera_MC.png" width="150"> <br/> [**Mr. Vivek Veera M C**]() | | |
 
