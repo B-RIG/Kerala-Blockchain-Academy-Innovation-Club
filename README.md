@@ -37,4 +37,18 @@ Kerala Blockchain Academy Innovation Club (KBAIC) is a novel initiative by Keral
 | <img src="Assets/Batch-1/M_Harshavarthinie.png" width="150"> <br/> [**Ms. M Harshavarthinie**]() | <img src="Assets/Batch-1/Hemvarshan.png" width="150"> <br/> [**Mr. V Hemvarshan**]() | [**Mr. Viswanath Singh**]()  |
 | <img src="Assets/Batch-1/Deepthi_J.jpg" width="150"> <br/> [**Ms. Deepthi J**]() | <img src="Assets/Batch-1/Jivan_Prasadd.png" width="150"> <br/> [**Mr. P. Jivan Prasadd**]() | <img src="Assets/Batch-1/Ram_Surya_Suresh_Kumar.png" width="150"> <br/> [**Mr. Ram Surya Suresh Kumar**]() |
 |<img src="Assets/Batch-1/Sushmanth_VM.jpg" width="150"> <br/> [**Mr. Sushmanth V M**]()  | <img src="Assets/Batch-1/Tippireddy.png" width="150"> <br/> [**Mr. Tippireddy Pavan Kumar Reddy**]() | <img src="Assets/Batch-1/Vivek_Veera_MC.png" width="150"> <br/> [**Mr. Vivek Veera M C**]() | 
+|<img src="Assets/Batch-1/Venkata_Revan.png" width="150"> <br/> [**Mr. Venkata Revan Nagireddy**]()  | | | 
 
+**Completed Courses**
+
+<details close>
+    <summary><b>Kerala Blockchain Academy - Certified Blockchain Associate</b></summary>
+<br>
+    <ul>
+          <li> <img src="https://img.shields.io/badge/KBAIC-20CYS_MTech-blue"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-CBA-OL-21275">Gandavaram Anuhya</a> </li>
+         <li> <img src="https://img.shields.io/badge/KBAIC-20CYS_MTech-blue"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-CBA-OL-21277">P Gnanendra Prasad</a> </li>
+         <li> <img src="https://img.shields.io/badge/KBAIC-19CCE_BTech-purple"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-CBA-OL-21279">Hemvarshan V</a> </li>
+         <li> <img src="https://img.shields.io/badge/KBAIC-21CYS_BTech-purple"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-CBA-OL-21281">AS Deepan</a> </li>
+         <li> <img src="https://img.shields.io/badge/KBAIC-21CYS_BTech-purple"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-CBA-OL-21334">Yaswanth Gadamsetti</a> </li>
+    </ul>
+</details> <br/>
