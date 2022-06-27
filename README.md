@@ -45,10 +45,16 @@ Kerala Blockchain Academy Innovation Club (KBAIC) is a novel initiative by Keral
     <summary><b>Kerala Blockchain Academy - Certified Blockchain Associate</b></summary>
 <br>
     <ul>
+          <li> <img src="https://img.shields.io/badge/KBAIC-21CYS_BTech-purple"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-CBA-OL-21281">AS Deepan</a> </li>
           <li> <img src="https://img.shields.io/badge/KBAIC-20CYS_MTech-blue"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-CBA-OL-21275">Gandavaram Anuhya</a> </li>
          <li> <img src="https://img.shields.io/badge/KBAIC-20CYS_MTech-blue"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-CBA-OL-21277">P Gnanendra Prasad</a> </li>
          <li> <img src="https://img.shields.io/badge/KBAIC-19CCE_BTech-purple"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-CBA-OL-21279">Hemvarshan V</a> </li>
-         <li> <img src="https://img.shields.io/badge/KBAIC-21CYS_BTech-purple"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-CBA-OL-21281">AS Deepan</a> </li>
          <li> <img src="https://img.shields.io/badge/KBAIC-21CYS_BTech-purple"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-CBA-OL-21334">Yaswanth Gadamsetti</a> </li>
+         <li> <img src="https://img.shields.io/badge/KBAIC-21CYS_BTech-purple"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-CBA-OL-21305">Nithin S</a> </li>
+          <li> <img src="https://img.shields.io/badge/KBAIC-20CYS_MTech-blue"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-CBA-OL-21339">Srikalaivani Pannerselvam</a> </li>  
+         <li> <img src="https://img.shields.io/badge/KBAIC-21CYS_BTech-purple"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-CBA-OL-21289">Ruthwik Krishna Bandreddy</a> </li>  
+         <li> <img src="https://img.shields.io/badge/KBAIC-21CYS_BTech-purple"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-CBA-OL-21327">Venkata Revan Nagireddy</a> </li>  
+         <li> <img src="https://img.shields.io/badge/KBAIC-21CYS_BTech-purple"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-CBA-OL-21317">Vinayak R</a> </li>  
+         <li> <img src="https://img.shields.io/badge/KBAIC-21CYS_BTech-purple"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-CBA-OL-21285">Ram Surya Suresh Kumar</a> </li> 
     </ul>
 </details> <br/>
