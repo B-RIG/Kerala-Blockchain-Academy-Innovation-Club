@@ -56,6 +56,7 @@ Kerala Blockchain Academy Innovation Club (KBAIC) is a novel initiative by Keral
          <li> <img src="https://img.shields.io/badge/KBAIC-21CYS_BTech-purple"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-CBA-OL-21327">Venkata Revan Nagireddy</a> </li>  
          <li> <img src="https://img.shields.io/badge/KBAIC-21CYS_BTech-purple"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-CBA-OL-21317">Vinayak R</a> </li>  
          <li> <img src="https://img.shields.io/badge/KBAIC-21CYS_BTech-purple"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-CBA-OL-21285">Ram Surya Suresh Kumar</a> </li> 
+          <li> <img src="https://img.shields.io/badge/KBAIC-21CYS_MTech-purple"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-CBA-OL-21321">Khandagale Swapneel Raosaheb</a> </li> 
     </ul>
 </details> <br/>
 
