@@ -36,8 +36,8 @@ Kerala Blockchain Academy Innovation Club (KBAIC) is a novel initiative by Keral
 | <img src="Assets/Batch-1/Nikhitha.png" width="150"> <br/> [**Ms. H Nikhitha**]() | <img src="Assets/Batch-1/Shanthosh_KP.png" width="150"> <br/> [**Mr. Shanthosh K P**]() | <img src="Assets/Batch-1/TK_Vrinda.png" width="150"> <br/> [**Ms. T k Vrinda**]() | 
 | <img src="Assets/Batch-1/M_Harshavarthinie.png" width="150"> <br/> [**Ms. M Harshavarthinie**]() | <img src="Assets/Batch-1/Hemvarshan.png" width="150"> <br/> [**Mr. V Hemvarshan**]() | [**Mr. Viswanath Singh**]()  |
 | <img src="Assets/Batch-1/As_Deepan.png" width="150"> <br/> [**Mr. As Deepan**]() | <img src="Assets/Batch-1/Deepthi_J.jpg" width="150"> <br/> [**Ms. Deepthi J**]() | <img src="Assets/Batch-1/Jivan_Prasadd.png" width="150"> <br/> [**Mr. P. Jivan Prasadd**]() | 
-| <img src="Assets/Batch-1/Ram_Surya_Suresh_Kumar.png" width="150"> <br/> [**Mr. Ram Surya Suresh Kumar**]() | <img src="Assets/Batch-1/Sushmanth_VM.jpg" width="150"> <br/> [**Mr. Sushmanth V M**]()  | <img src="Assets/Batch-1/Tippireddy.png" width="150"> <br/> [**Mr. Tippireddy Pavan Kumar Reddy**]() | <img src="Assets/Batch-1/Vivek_Veera_MC.png" width="150"> <br/> [**Mr. Vivek Veera M C**]() | 
-|<img src="Assets/Batch-1/Venkata_Revan.png" width="150"> <br/> [**Mr. Venkata Revan Nagireddy**]()  | | |
+| <img src="Assets/Batch-1/Manbendra_Satpathy.png" width="150"> <br/> [**Mr. Manbendra Satpathy**]() | <img src="Assets/Batch-1/Ram_Surya_Suresh_Kumar.png" width="150"> <br/> [**Mr. Ram Surya Suresh Kumar**]() | <img src="Assets/Batch-1/Sushmanth_VM.jpg" width="150"> <br/> [**Mr. Sushmanth V M**]()  | 
+| <img src="Assets/Batch-1/Tippireddy.png" width="150"> <br/> [**Mr. Tippireddy Pavan Kumar Reddy**]() | <img src="Assets/Batch-1/Vivek_Veera_MC.png" width="150"> <br/> [**Mr. Vivek Veera M C**]() | <img src="Assets/Batch-1/Venkata_Revan.png" width="150"> <br/> [**Mr. Venkata Revan Nagireddy**]()  |
 
 **Completed Courses**
 
@@ -57,6 +57,7 @@ Kerala Blockchain Academy Innovation Club (KBAIC) is a novel initiative by Keral
          <li> <img src="https://img.shields.io/badge/KBAIC-21CYS_BTech-purple"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-CBA-OL-21317">Vinayak R</a> </li>  
          <li> <img src="https://img.shields.io/badge/KBAIC-21CYS_BTech-purple"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-CBA-OL-21285">Ram Surya Suresh Kumar</a> </li> 
           <li> <img src="https://img.shields.io/badge/KBAIC-21CYS_MTech-purple"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-CBA-OL-21321">Khandagale Swapneel Raosaheb</a> </li> 
+          <li> <img src="https://img.shields.io/badge/KBAIC-21CYS_BTech-purple"/> <a href="https://verify.kba.ai/view/IIITMK-KBA-CBA-OL-21439">Manbendra Satpathy</a> </li> 
     </ul>
 </details> <br/>
 
